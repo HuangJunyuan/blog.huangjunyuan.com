@@ -18,24 +18,24 @@ excerpt_separator: "[-----]"
 
 # mode: dev
 mode: product
-url: https://unifreak.github.io/
+url: https://huangjunyuan.github.io/
 devurl: http://localhost:4000/
-name: UniFreak
-title: UniFreak | Another yet unique freak is showing a freakshow
-description: "Fanghao's personal weblog, on coding or such stuff"
+name: HuangJunyuan
+title: HuangJunyuan | 技术空间
+description: "HuangJunyuan's personal weblog, on coding or such stuff"
 
 my:
-    displayName: UniFreak
-    realName: FangHao
-    realName_cn: 方浩
-    jobTitle: "PHP Coder"
+    displayName: HuangJunyuan
+    realName: HuangJunyuan
+    realName_cn: 黄俊元
+    jobTitle: "Code Designer"
     contact:
-        qq: 744910240
-        email: fanghao90s@gmail.com
-        github: http://www.github.com/UniFreak
-        qzone: http://744910240.qzone.qq.com
-        pinterest: https://www.pinterest.com/miblah/
-        tel: 15532915861
+        qq: 125331992
+        email: HuangJunyuan2014@163.com
+        github: http://www.github.com/HuangJunyuan
+        qzone: http://125331992.qzone.qq.com
+        pinterest: 
+        tel: 
         address:
             country: China
             state: Beijing
