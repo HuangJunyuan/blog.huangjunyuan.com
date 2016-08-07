@@ -1,2 +1,3 @@
-blog.huangjunyuan.com 
+huangjunyuan.github.io
+----------------------
 斑斓随笔Blog
